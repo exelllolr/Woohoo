@@ -1,0 +1,497 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tarif\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WooHoo\\Woohoo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8ADA7F4A-7A8C-4022-A6C6-143E418C2327}|dimplom\\dimplom.csproj|C:\\Users\\tarif\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WooHoo\\Woohoo\\dimplom\\pages\\regpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ADA7F4A-7A8C-4022-A6C6-143E418C2327}|dimplom\\dimplom.csproj|solutionrelative:dimplom\\pages\\regpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ADA7F4A-7A8C-4022-A6C6-143E418C2327}|dimplom\\dimplom.csproj|C:\\Users\\tarif\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WooHoo\\Woohoo\\dimplom\\pages\\regpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8ADA7F4A-7A8C-4022-A6C6-143E418C2327}|dimplom\\dimplom.csproj|solutionrelative:dimplom\\pages\\regpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ADA7F4A-7A8C-4022-A6C6-143E418C2327}|dimplom\\dimplom.csproj|C:\\Users\\tarif\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WooHoo\\Woohoo\\dimplom\\pages\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8ADA7F4A-7A8C-4022-A6C6-143E418C2327}|dimplom\\dimplom.csproj|solutionrelative:dimplom\\pages\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ADA7F4A-7A8C-4022-A6C6-143E418C2327}|dimplom\\dimplom.csproj|c:\\users\\tarif\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\woohoo\\woohoo\\dimplom\\pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8ADA7F4A-7A8C-4022-A6C6-143E418C2327}|dimplom\\dimplom.csproj|solutionrelative:dimplom\\pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ADA7F4A-7A8C-4022-A6C6-143E418C2327}|dimplom\\dimplom.csproj|C:\\Users\\tarif\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WooHoo\\Woohoo\\dimplom\\pages\\overlaypage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8ADA7F4A-7A8C-4022-A6C6-143E418C2327}|dimplom\\dimplom.csproj|solutionrelative:dimplom\\pages\\overlaypage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ADA7F4A-7A8C-4022-A6C6-143E418C2327}|dimplom\\dimplom.csproj|C:\\Users\\tarif\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WooHoo\\Woohoo\\dimplom\\pages\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ADA7F4A-7A8C-4022-A6C6-143E418C2327}|dimplom\\dimplom.csproj|solutionrelative:dimplom\\pages\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ADA7F4A-7A8C-4022-A6C6-143E418C2327}|dimplom\\dimplom.csproj|C:\\Users\\tarif\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WooHoo\\Woohoo\\dimplom\\pages\\editprofilepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8ADA7F4A-7A8C-4022-A6C6-143E418C2327}|dimplom\\dimplom.csproj|solutionrelative:dimplom\\pages\\editprofilepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ADA7F4A-7A8C-4022-A6C6-143E418C2327}|dimplom\\dimplom.csproj|C:\\Users\\tarif\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WooHoo\\Woohoo\\dimplom\\model\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ADA7F4A-7A8C-4022-A6C6-143E418C2327}|dimplom\\dimplom.csproj|solutionrelative:dimplom\\model\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ADA7F4A-7A8C-4022-A6C6-143E418C2327}|dimplom\\dimplom.csproj|C:\\Users\\tarif\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WooHoo\\Woohoo\\dimplom\\pages\\editprofilepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ADA7F4A-7A8C-4022-A6C6-143E418C2327}|dimplom\\dimplom.csproj|solutionrelative:dimplom\\pages\\editprofilepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ADA7F4A-7A8C-4022-A6C6-143E418C2327}|dimplom\\dimplom.csproj|C:\\Users\\tarif\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WooHoo\\Woohoo\\dimplom\\resources\\menu-burger.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{8ADA7F4A-7A8C-4022-A6C6-143E418C2327}|dimplom\\dimplom.csproj|solutionrelative:dimplom\\resources\\menu-burger.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ADA7F4A-7A8C-4022-A6C6-143E418C2327}|dimplom\\dimplom.csproj|C:\\Users\\tarif\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WooHoo\\Woohoo\\dimplom\\controlers\\woohooviewsmessageoverlay.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8ADA7F4A-7A8C-4022-A6C6-143E418C2327}|dimplom\\dimplom.csproj|solutionrelative:dimplom\\controlers\\woohooviewsmessageoverlay.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ADA7F4A-7A8C-4022-A6C6-143E418C2327}|dimplom\\dimplom.csproj|C:\\Users\\tarif\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WooHoo\\Woohoo\\dimplom\\controlers\\woohooviewsmessageoverlay.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ADA7F4A-7A8C-4022-A6C6-143E418C2327}|dimplom\\dimplom.csproj|solutionrelative:dimplom\\controlers\\woohooviewsmessageoverlay.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ADA7F4A-7A8C-4022-A6C6-143E418C2327}|dimplom\\dimplom.csproj|C:\\Users\\tarif\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WooHoo\\Woohoo\\dimplom\\pages\\overlaypage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ADA7F4A-7A8C-4022-A6C6-143E418C2327}|dimplom\\dimplom.csproj|solutionrelative:dimplom\\pages\\overlaypage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ADA7F4A-7A8C-4022-A6C6-143E418C2327}|dimplom\\dimplom.csproj|C:\\Users\\tarif\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WooHoo\\Woohoo\\dimplom\\controlers\\chatscontroller.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8ADA7F4A-7A8C-4022-A6C6-143E418C2327}|dimplom\\dimplom.csproj|solutionrelative:dimplom\\controlers\\chatscontroller.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ADA7F4A-7A8C-4022-A6C6-143E418C2327}|dimplom\\dimplom.csproj|C:\\Users\\tarif\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WooHoo\\Woohoo\\dimplom\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{8ADA7F4A-7A8C-4022-A6C6-143E418C2327}|dimplom\\dimplom.csproj|solutionrelative:dimplom\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ADA7F4A-7A8C-4022-A6C6-143E418C2327}|dimplom\\dimplom.csproj|C:\\Users\\tarif\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WooHoo\\Woohoo\\dimplom\\model\\woohoomodel.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8ADA7F4A-7A8C-4022-A6C6-143E418C2327}|dimplom\\dimplom.csproj|solutionrelative:dimplom\\model\\woohoomodel.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ADA7F4A-7A8C-4022-A6C6-143E418C2327}|dimplom\\dimplom.csproj|C:\\Users\\tarif\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WooHoo\\Woohoo\\dimplom\\model\\woohoomodel.edmx.diagram||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{8ADA7F4A-7A8C-4022-A6C6-143E418C2327}|dimplom\\dimplom.csproj|solutionrelative:dimplom\\model\\woohoomodel.edmx.diagram||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ADA7F4A-7A8C-4022-A6C6-143E418C2327}|dimplom\\dimplom.csproj|C:\\Users\\tarif\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WooHoo\\Woohoo\\dimplom\\model\\woohoomodel.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ADA7F4A-7A8C-4022-A6C6-143E418C2327}|dimplom\\dimplom.csproj|solutionrelative:dimplom\\model\\woohoomodel.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ADA7F4A-7A8C-4022-A6C6-143E418C2327}|dimplom\\dimplom.csproj|C:\\Users\\tarif\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WooHoo\\Woohoo\\dimplom\\model\\woohoomodel.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8ADA7F4A-7A8C-4022-A6C6-143E418C2327}|dimplom\\dimplom.csproj|solutionrelative:dimplom\\model\\woohoomodel.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ADA7F4A-7A8C-4022-A6C6-143E418C2327}|dimplom\\dimplom.csproj|C:\\Users\\tarif\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WooHoo\\Woohoo\\dimplom\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ADA7F4A-7A8C-4022-A6C6-143E418C2327}|dimplom\\dimplom.csproj|solutionrelative:dimplom\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ADA7F4A-7A8C-4022-A6C6-143E418C2327}|dimplom\\dimplom.csproj|C:\\Users\\tarif\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WooHoo\\Woohoo\\dimplom\\pages\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ADA7F4A-7A8C-4022-A6C6-143E418C2327}|dimplom\\dimplom.csproj|solutionrelative:dimplom\\pages\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ADA7F4A-7A8C-4022-A6C6-143E418C2327}|dimplom\\dimplom.csproj|C:\\Users\\tarif\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WooHoo\\Woohoo\\dimplom\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ADA7F4A-7A8C-4022-A6C6-143E418C2327}|dimplom\\dimplom.csproj|solutionrelative:dimplom\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ADA7F4A-7A8C-4022-A6C6-143E418C2327}|dimplom\\dimplom.csproj|C:\\Users\\tarif\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WooHoo\\Woohoo\\dimplom\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8ADA7F4A-7A8C-4022-A6C6-143E418C2327}|dimplom\\dimplom.csproj|solutionrelative:dimplom\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8035D3A5-D630-4A81-AA53-DAF448643E9B}|Solution Items{8035D3A5-D630-4A81-AA53-DAF448643E9B}|C:\\Users\\tarif\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WooHoo\\Woohoo\\.editorconfig||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{8035D3A5-D630-4A81-AA53-DAF448643E9B}|Solution Items{8035D3A5-D630-4A81-AA53-DAF448643E9B}|solutionrelative:.editorconfig||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ADA7F4A-7A8C-4022-A6C6-143E418C2327}|dimplom\\dimplom.csproj|C:\\Users\\tarif\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WooHoo\\Woohoo\\dimplom\\apphelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ADA7F4A-7A8C-4022-A6C6-143E418C2327}|dimplom\\dimplom.csproj|solutionrelative:dimplom\\apphelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ADA7F4A-7A8C-4022-A6C6-143E418C2327}|dimplom\\dimplom.csproj|C:\\Users\\tarif\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WooHoo\\Woohoo\\dimplom\\model\\woohoomodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{8ADA7F4A-7A8C-4022-A6C6-143E418C2327}|dimplom\\dimplom.csproj|solutionrelative:dimplom\\model\\woohoomodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ADA7F4A-7A8C-4022-A6C6-143E418C2327}|dimplom\\dimplom.csproj|C:\\Users\\tarif\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WooHoo\\Woohoo\\dimplom\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
+      "RelativeMoniker": "D:0:0:{8ADA7F4A-7A8C-4022-A6C6-143E418C2327}|dimplom\\dimplom.csproj|solutionrelative:dimplom\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ADA7F4A-7A8C-4022-A6C6-143E418C2327}|dimplom\\dimplom.csproj|C:\\Users\\tarif\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WooHoo\\Woohoo\\dimplom\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ADA7F4A-7A8C-4022-A6C6-143E418C2327}|dimplom\\dimplom.csproj|solutionrelative:dimplom\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ADA7F4A-7A8C-4022-A6C6-143E418C2327}|dimplom\\dimplom.csproj|C:\\Users\\tarif\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WooHoo\\Woohoo\\dimplom\\controlers\\chatscontroller.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ADA7F4A-7A8C-4022-A6C6-143E418C2327}|dimplom\\dimplom.csproj|solutionrelative:dimplom\\controlers\\chatscontroller.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ADA7F4A-7A8C-4022-A6C6-143E418C2327}|dimplom\\dimplom.csproj|C:\\Users\\tarif\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WooHoo\\Woohoo\\dimplom\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8ADA7F4A-7A8C-4022-A6C6-143E418C2327}|dimplom\\dimplom.csproj|solutionrelative:dimplom\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\tarif\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WooHoo\\Woohoo\\dimplom\\Pages\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "dimplom\\Pages\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\tarif\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WooHoo\\Woohoo\\dimplom\\Pages\\MainPage.xaml.cs",
+              "RelativeToolTip": "dimplom\\Pages\\MainPage.xaml.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAYwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T10:38:30.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\tarif\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WooHoo\\Woohoo\\dimplom\\Pages\\MainPage.xaml",
+              "RelativeDocumentMoniker": "dimplom\\Pages\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\tarif\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WooHoo\\Woohoo\\dimplom\\Pages\\MainPage.xaml",
+              "RelativeToolTip": "dimplom\\Pages\\MainPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-09T10:11:40.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OverlayPage.xaml",
+              "DocumentMoniker": "C:\\Users\\tarif\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WooHoo\\Woohoo\\dimplom\\Pages\\OverlayPage.xaml",
+              "RelativeDocumentMoniker": "dimplom\\Pages\\OverlayPage.xaml",
+              "ToolTip": "C:\\Users\\tarif\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WooHoo\\Woohoo\\dimplom\\Pages\\OverlayPage.xaml",
+              "RelativeToolTip": "dimplom\\Pages\\OverlayPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-03T09:10:05.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\tarif\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WooHoo\\Woohoo\\dimplom\\Pages\\RegPage.xaml.cs",
+              "RelativeDocumentMoniker": "dimplom\\Pages\\RegPage.xaml.cs",
+              "ToolTip": "C:\\Users\\tarif\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WooHoo\\Woohoo\\dimplom\\Pages\\RegPage.xaml.cs",
+              "RelativeToolTip": "dimplom\\Pages\\RegPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T15:07:55.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WooHooViewsMessageOverlay.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\tarif\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WooHoo\\Woohoo\\dimplom\\Controlers\\WooHooViewsMessageOverlay.xaml.cs",
+              "RelativeDocumentMoniker": "dimplom\\Controlers\\WooHooViewsMessageOverlay.xaml.cs",
+              "ToolTip": "C:\\Users\\tarif\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WooHoo\\Woohoo\\dimplom\\Controlers\\WooHooViewsMessageOverlay.xaml.cs",
+              "RelativeToolTip": "dimplom\\Controlers\\WooHooViewsMessageOverlay.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T11:57:53.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "menu-burger.png",
+              "DocumentMoniker": "C:\\Users\\tarif\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WooHoo\\Woohoo\\dimplom\\Resources\\menu-burger.png",
+              "RelativeDocumentMoniker": "dimplom\\Resources\\menu-burger.png",
+              "ToolTip": "C:\\Users\\tarif\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WooHoo\\Woohoo\\dimplom\\Resources\\menu-burger.png",
+              "RelativeToolTip": "dimplom\\Resources\\menu-burger.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-06-05T21:54:00.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegPage.xaml",
+              "DocumentMoniker": "C:\\Users\\tarif\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WooHoo\\Woohoo\\dimplom\\Pages\\RegPage.xaml",
+              "RelativeDocumentMoniker": "dimplom\\Pages\\RegPage.xaml",
+              "ToolTip": "C:\\Users\\tarif\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WooHoo\\Woohoo\\dimplom\\Pages\\RegPage.xaml",
+              "RelativeToolTip": "dimplom\\Pages\\RegPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-10T13:03:05.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\tarif\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WooHoo\\Woohoo\\dimplom\\Model\\Users.cs",
+              "RelativeDocumentMoniker": "dimplom\\Model\\Users.cs",
+              "ToolTip": "C:\\Users\\tarif\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WooHoo\\Woohoo\\dimplom\\Model\\Users.cs",
+              "RelativeToolTip": "dimplom\\Model\\Users.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwCEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T21:55:43.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EditProfilePage.xaml",
+              "DocumentMoniker": "C:\\Users\\tarif\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WooHoo\\Woohoo\\dimplom\\Pages\\EditProfilePage.xaml",
+              "RelativeDocumentMoniker": "dimplom\\Pages\\EditProfilePage.xaml",
+              "ToolTip": "C:\\Users\\tarif\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WooHoo\\Woohoo\\dimplom\\Pages\\EditProfilePage.xaml",
+              "RelativeToolTip": "dimplom\\Pages\\EditProfilePage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-03T09:47:26.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WooHooViewsMessageOverlay.xaml",
+              "DocumentMoniker": "C:\\Users\\tarif\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WooHoo\\Woohoo\\dimplom\\Controlers\\WooHooViewsMessageOverlay.xaml",
+              "RelativeDocumentMoniker": "dimplom\\Controlers\\WooHooViewsMessageOverlay.xaml",
+              "ToolTip": "C:\\Users\\tarif\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WooHoo\\Woohoo\\dimplom\\Controlers\\WooHooViewsMessageOverlay.xaml",
+              "RelativeToolTip": "dimplom\\Controlers\\WooHooViewsMessageOverlay.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-03T11:57:48.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EditProfilePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\tarif\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WooHoo\\Woohoo\\dimplom\\Pages\\EditProfilePage.xaml.cs",
+              "RelativeDocumentMoniker": "dimplom\\Pages\\EditProfilePage.xaml.cs",
+              "ToolTip": "C:\\Users\\tarif\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WooHoo\\Woohoo\\dimplom\\Pages\\EditProfilePage.xaml.cs",
+              "RelativeToolTip": "dimplom\\Pages\\EditProfilePage.xaml.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowEYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T21:15:26.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OverlayPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\tarif\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WooHoo\\Woohoo\\dimplom\\Pages\\OverlayPage.xaml.cs",
+              "RelativeDocumentMoniker": "dimplom\\Pages\\OverlayPage.xaml.cs",
+              "ToolTip": "C:\\Users\\tarif\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WooHoo\\Woohoo\\dimplom\\Pages\\OverlayPage.xaml.cs",
+              "RelativeToolTip": "dimplom\\Pages\\OverlayPage.xaml.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAADAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T09:10:30.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ChatsController.xaml",
+              "DocumentMoniker": "C:\\Users\\tarif\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WooHoo\\Woohoo\\dimplom\\Controlers\\ChatsController.xaml",
+              "RelativeDocumentMoniker": "dimplom\\Controlers\\ChatsController.xaml",
+              "ToolTip": "C:\\Users\\tarif\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WooHoo\\Woohoo\\dimplom\\Controlers\\ChatsController.xaml",
+              "RelativeToolTip": "dimplom\\Controlers\\ChatsController.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-05T08:57:34.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\tarif\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WooHoo\\Woohoo\\dimplom\\App.config",
+              "RelativeDocumentMoniker": "dimplom\\App.config",
+              "ToolTip": "C:\\Users\\tarif\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WooHoo\\Woohoo\\dimplom\\App.config",
+              "RelativeToolTip": "dimplom\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAADAAQAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-05T11:39:53.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "WooHooModel.Context.tt",
+              "DocumentMoniker": "C:\\Users\\tarif\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WooHoo\\Woohoo\\dimplom\\Model\\WooHooModel.Context.tt",
+              "RelativeDocumentMoniker": "dimplom\\Model\\WooHooModel.Context.tt",
+              "ToolTip": "C:\\Users\\tarif\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WooHoo\\Woohoo\\dimplom\\Model\\WooHooModel.Context.tt",
+              "RelativeToolTip": "dimplom\\Model\\WooHooModel.Context.tt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-06-05T14:42:12.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "WooHooModel.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\tarif\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WooHoo\\Woohoo\\dimplom\\Model\\WooHooModel.Designer.cs",
+              "RelativeDocumentMoniker": "dimplom\\Model\\WooHooModel.Designer.cs",
+              "ToolTip": "C:\\Users\\tarif\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WooHoo\\Woohoo\\dimplom\\Model\\WooHooModel.Designer.cs",
+              "RelativeToolTip": "dimplom\\Model\\WooHooModel.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T14:42:15.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\tarif\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WooHoo\\Woohoo\\dimplom\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "dimplom\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\tarif\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WooHoo\\Woohoo\\dimplom\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "dimplom\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T11:35:31.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": ".editorconfig",
+              "DocumentMoniker": "C:\\Users\\tarif\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WooHoo\\Woohoo\\.editorconfig",
+              "RelativeDocumentMoniker": ".editorconfig",
+              "ToolTip": "C:\\Users\\tarif\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WooHoo\\Woohoo\\.editorconfig",
+              "RelativeToolTip": ".editorconfig",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-05T10:05:29.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginPage.xaml",
+              "DocumentMoniker": "C:\\Users\\tarif\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WooHoo\\Woohoo\\dimplom\\Pages\\LoginPage.xaml",
+              "RelativeDocumentMoniker": "dimplom\\Pages\\LoginPage.xaml",
+              "ToolTip": "C:\\Users\\tarif\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WooHoo\\Woohoo\\dimplom\\Pages\\LoginPage.xaml",
+              "RelativeToolTip": "dimplom\\Pages\\LoginPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-09T09:33:43.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "WooHooModel.edmx.diagram",
+              "DocumentMoniker": "C:\\Users\\tarif\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WooHoo\\Woohoo\\dimplom\\Model\\WooHooModel.edmx.diagram",
+              "RelativeDocumentMoniker": "dimplom\\Model\\WooHooModel.edmx.diagram",
+              "ToolTip": "C:\\Users\\tarif\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WooHoo\\Woohoo\\dimplom\\Model\\WooHooModel.edmx.diagram",
+              "RelativeToolTip": "dimplom\\Model\\WooHooModel.edmx.diagram",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-05T14:42:16.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AppHelpers.cs",
+              "DocumentMoniker": "C:\\Users\\tarif\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WooHoo\\Woohoo\\dimplom\\AppHelpers.cs",
+              "RelativeDocumentMoniker": "dimplom\\AppHelpers.cs",
+              "ToolTip": "C:\\Users\\tarif\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WooHoo\\Woohoo\\dimplom\\AppHelpers.cs",
+              "RelativeToolTip": "dimplom\\AppHelpers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T10:35:09.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "WooHooModel.tt",
+              "DocumentMoniker": "C:\\Users\\tarif\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WooHoo\\Woohoo\\dimplom\\Model\\WooHooModel.tt",
+              "RelativeDocumentMoniker": "dimplom\\Model\\WooHooModel.tt",
+              "ToolTip": "C:\\Users\\tarif\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WooHoo\\Woohoo\\dimplom\\Model\\WooHooModel.tt",
+              "RelativeToolTip": "dimplom\\Model\\WooHooModel.tt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-06-05T14:42:17.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Settings.settings",
+              "DocumentMoniker": "C:\\Users\\tarif\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WooHoo\\Woohoo\\dimplom\\Properties\\Settings.settings",
+              "RelativeDocumentMoniker": "dimplom\\Properties\\Settings.settings",
+              "ToolTip": "C:\\Users\\tarif\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WooHoo\\Woohoo\\dimplom\\Properties\\Settings.settings",
+              "RelativeToolTip": "dimplom\\Properties\\Settings.settings",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002767|",
+              "WhenOpened": "2024-06-05T11:35:38.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LoginPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\tarif\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WooHoo\\Woohoo\\dimplom\\Pages\\LoginPage.xaml.cs",
+              "RelativeDocumentMoniker": "dimplom\\Pages\\LoginPage.xaml.cs",
+              "ToolTip": "C:\\Users\\tarif\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WooHoo\\Woohoo\\dimplom\\Pages\\LoginPage.xaml.cs",
+              "RelativeToolTip": "dimplom\\Pages\\LoginPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T09:49:32.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\tarif\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WooHoo\\Woohoo\\dimplom\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "dimplom\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\tarif\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WooHoo\\Woohoo\\dimplom\\MainWindow.xaml",
+              "RelativeToolTip": "dimplom\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-09T09:28:14.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\tarif\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WooHoo\\Woohoo\\dimplom\\App.xaml.cs",
+              "RelativeDocumentMoniker": "dimplom\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\tarif\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WooHoo\\Woohoo\\dimplom\\App.xaml.cs",
+              "RelativeToolTip": "dimplom\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T12:16:15.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\tarif\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WooHoo\\Woohoo\\dimplom\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "dimplom\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\tarif\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WooHoo\\Woohoo\\dimplom\\MainWindow.xaml.cs",
+              "RelativeToolTip": "dimplom\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T09:28:13.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "WooHooModel.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\tarif\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WooHoo\\Woohoo\\dimplom\\Model\\WooHooModel.edmx",
+              "RelativeDocumentMoniker": "dimplom\\Model\\WooHooModel.edmx",
+              "ToolTip": "C:\\Users\\tarif\\source\\repos\\dimplom\\dimplom\\Model\\WooHooModel.edmx [Diagram1]",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\dimplom\\dimplom\\Model\\WooHooModel.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-06-05T11:41:15.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ChatsController.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\tarif\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WooHoo\\Woohoo\\dimplom\\Controlers\\ChatsController.xaml.cs",
+              "RelativeDocumentMoniker": "dimplom\\Controlers\\ChatsController.xaml.cs",
+              "ToolTip": "C:\\Users\\tarif\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WooHoo\\Woohoo\\dimplom\\Controlers\\ChatsController.xaml.cs",
+              "RelativeToolTip": "dimplom\\Controlers\\ChatsController.xaml.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAiwB0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T08:57:52.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\tarif\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WooHoo\\Woohoo\\dimplom\\App.xaml",
+              "RelativeDocumentMoniker": "dimplom\\App.xaml",
+              "ToolTip": "C:\\Users\\tarif\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WooHoo\\Woohoo\\dimplom\\App.xaml",
+              "RelativeToolTip": "dimplom\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-10T10:30:20.082Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

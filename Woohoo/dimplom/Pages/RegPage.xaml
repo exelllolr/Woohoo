@@ -1,0 +1,70 @@
+﻿<Page x:Class="dimplom.Pages.RegPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:dimplom.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="550" d:DesignWidth="300"
+      
+      Title="RegPage">
+
+    <Grid>
+        <StackPanel Height="auto" Width="260" 
+  VerticalAlignment="Center" HorizontalAlignment="Center">
+            <TextBlock Text="{Binding Photo}"
+       VerticalAlignment="Center" HorizontalAlignment="Center"/>
+            <Image x:Name="PhotoProfile"
+                   Width="100"
+                   Height="100"
+                   Stretch="UniformToFill">
+
+            </Image>
+            <Button x:Name="BBrowse"
+                    Content="Browse"
+                    Click="BBrowse_Click_1"
+                    Margin="5 10"/>
+
+            <TextBlock Text="Имя"/>
+            <TextBox Text ="{Binding Users.Name}"/>
+            <TextBlock Text="Фамилия"/>
+            <TextBox Text="{Binding Users.Surname}"/>
+            <TextBlock Text="Login"/>
+            <TextBox Text="{Binding Users.Login}"/>
+            <TextBlock Text="Password"/>
+            <PasswordBox x:Name="PBPassword"/>
+            <TextBlock Text="Email"/>
+            <TextBox Text="{Binding Users.Email}"/>
+            <TextBlock Text="Возрост"/>
+            <TextBox Text="{Binding Users.Age}"/>
+            <TextBlock Text="Город"/>
+            <TextBox Text="{Binding Users.City}"/>
+
+            <Label Content="Пол:" />
+            <ComboBox  x:Name="GenderComboBox"
+                  ItemsSource="{Binding Gender}" 
+                  SelectedItem="{Binding contextUser.Gender}">
+                <ComboBox.ItemTemplate>
+                    <DataTemplate>
+                        <TextBlock Text="{Binding Gender}" />
+                    </DataTemplate>
+                </ComboBox.ItemTemplate>
+            </ComboBox>
+            <Button Tag="BReg"
+                    Content="Registretion"
+                    Click="BReg_Click"
+                   Margin="5 20 5 10" />
+            <Button x:Name="BBack"
+                    Content="Back"
+                    Margin="5 10 "
+                    Click="BBack_Click"/>
+            
+
+        </StackPanel>
+        <Image Source="/Resources/Logo1.png"
+       Width="100"
+       Height="20"
+       VerticalAlignment="Top"
+       Visibility="Visible"/>
+    </Grid>
+</Page>

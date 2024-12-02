@@ -1,0 +1,410 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="WooHooModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Chats">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="UserId1" Type="Int32" Nullable="false" />
+    <Property Name="Userid2" Type="Int32" Nullable="false" />
+    <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="Users" Relationship="Self.FK_Chats_Users" FromRole="Chats" ToRole="Users" />
+    <NavigationProperty Name="Users1" Relationship="Self.FK_Chats_Users1" FromRole="Chats" ToRole="Users" />
+    <NavigationProperty Name="Message" Relationship="Self.FK_Message_Chats" FromRole="Chats" ToRole="Message" />
+  </EntityType>
+  <EntityType Name="Coincidences">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="UserId1" Type="Int32" Nullable="false" />
+    <Property Name="UserId2" Type="Int32" Nullable="false" />
+    <Property Name="Date" Type="DateTime" Nullable="false" Precision="3" />
+    <NavigationProperty Name="Users" Relationship="Self.FK_Coincidences_Users" FromRole="Coincidences" ToRole="Users" />
+    <NavigationProperty Name="Users1" Relationship="Self.FK_Coincidences_Users1" FromRole="Coincidences" ToRole="Users" />
+  </EntityType>
+  <EntityType Name="Gift">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Description" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Price" Type="Decimal" Precision="19" Scale="4" Nullable="false" />
+    <NavigationProperty Name="GiftUser" Relationship="Self.FK_GiftUser_Gift" FromRole="Gift" ToRole="GiftUser" />
+  </EntityType>
+  <EntityType Name="GiftUser">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="GiftId" Type="Int32" Nullable="false" />
+    <Property Name="SenderId" Type="Int32" Nullable="false" />
+    <Property Name="RecipentId" Type="Int32" Nullable="false" />
+    <Property Name="Date" Type="DateTime" Nullable="false" Precision="0" />
+    <NavigationProperty Name="Gift" Relationship="Self.FK_GiftUser_Gift" FromRole="GiftUser" ToRole="Gift" />
+    <NavigationProperty Name="Users" Relationship="Self.FK_GiftUser_Users" FromRole="GiftUser" ToRole="Users" />
+    <NavigationProperty Name="Users1" Relationship="Self.FK_GiftUser_Users1" FromRole="GiftUser" ToRole="Users" />
+  </EntityType>
+  <EntityType Name="Interests">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="UsersInterests" Relationship="Self.FK_UsersInterests_Interests" FromRole="Interests" ToRole="UsersInterests" />
+  </EntityType>
+  <EntityType Name="Message">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ChatId" Type="Int32" Nullable="false" />
+    <Property Name="SenderId" Type="Int32" Nullable="false" />
+    <Property Name="RecipentId" Type="Int32" Nullable="false" />
+    <Property Name="Messege" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="DataSend" Type="DateTime" Nullable="false" Precision="3" />
+    <NavigationProperty Name="Chats" Relationship="Self.FK_Message_Chats" FromRole="Message" ToRole="Chats" />
+    <NavigationProperty Name="Users" Relationship="Self.FK_Message_Users" FromRole="Message" ToRole="Users" />
+    <NavigationProperty Name="Users1" Relationship="Self.FK_Message_Users1" FromRole="Message" ToRole="Users" />
+  </EntityType>
+  <EntityType Name="Photos">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="UserId" Type="Int32" Nullable="false" />
+    <Property Name="Photo" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="Users" Relationship="Self.FK_Photos_Users" FromRole="Photos" ToRole="Users" />
+    <NavigationProperty Name="Users1" Relationship="Self.FK_Users_Photos1" FromRole="Photos" ToRole="Users" />
+  </EntityType>
+  <EntityType Name="Reviews">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="UserId" Type="Int32" Nullable="false" />
+    <Property Name="Score" Type="Int32" Nullable="false" />
+    <Property Name="Comment" Type="String" MaxLength="255" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="ReviewDate" Type="DateTime" Nullable="false" Precision="0" />
+    <NavigationProperty Name="Users" Relationship="Self.FK_Reviews_Users" FromRole="Reviews" ToRole="Users" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="Users">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Surname" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Login" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Password" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Email" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Age" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Gender" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="City" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="PhotoId" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Chats" Relationship="Self.FK_Chats_Users" FromRole="Users" ToRole="Chats" />
+    <NavigationProperty Name="Chats1" Relationship="Self.FK_Chats_Users1" FromRole="Users" ToRole="Chats" />
+    <NavigationProperty Name="Coincidences" Relationship="Self.FK_Coincidences_Users" FromRole="Users" ToRole="Coincidences" />
+    <NavigationProperty Name="Coincidences1" Relationship="Self.FK_Coincidences_Users1" FromRole="Users" ToRole="Coincidences" />
+    <NavigationProperty Name="GiftUser" Relationship="Self.FK_GiftUser_Users" FromRole="Users" ToRole="GiftUser" />
+    <NavigationProperty Name="GiftUser1" Relationship="Self.FK_GiftUser_Users1" FromRole="Users" ToRole="GiftUser" />
+    <NavigationProperty Name="Message" Relationship="Self.FK_Message_Users" FromRole="Users" ToRole="Message" />
+    <NavigationProperty Name="Message1" Relationship="Self.FK_Message_Users1" FromRole="Users" ToRole="Message" />
+    <NavigationProperty Name="Photos" Relationship="Self.FK_Photos_Users" FromRole="Users" ToRole="Photos" />
+    <NavigationProperty Name="Photos1" Relationship="Self.FK_Users_Photos1" FromRole="Users" ToRole="Photos" />
+    <NavigationProperty Name="Reviews" Relationship="Self.FK_Reviews_Users" FromRole="Users" ToRole="Reviews" />
+    <NavigationProperty Name="UsersInterests" Relationship="Self.FK_UsersInterests_Users" FromRole="Users" ToRole="UsersInterests" />
+    <NavigationProperty Name="UsersInterests1" Relationship="Self.FK_UsersInterests_Users1" FromRole="Users" ToRole="UsersInterests" />
+  </EntityType>
+  <EntityType Name="UsersInterests">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="UserId" Type="Int32" Nullable="false" />
+    <Property Name="InterestsId" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Interests" Relationship="Self.FK_UsersInterests_Interests" FromRole="UsersInterests" ToRole="Interests" />
+    <NavigationProperty Name="Users" Relationship="Self.FK_UsersInterests_Users" FromRole="UsersInterests" ToRole="Users" />
+    <NavigationProperty Name="Users1" Relationship="Self.FK_UsersInterests_Users1" FromRole="UsersInterests" ToRole="Users" />
+  </EntityType>
+  <Association Name="FK_Chats_Users">
+    <End Role="Users" Type="Self.Users" Multiplicity="1" />
+    <End Role="Chats" Type="Self.Chats" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Users">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Chats">
+        <PropertyRef Name="UserId1" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Chats_Users1">
+    <End Role="Users" Type="Self.Users" Multiplicity="1" />
+    <End Role="Chats" Type="Self.Chats" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Users">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Chats">
+        <PropertyRef Name="Userid2" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Message_Chats">
+    <End Role="Chats" Type="Self.Chats" Multiplicity="1" />
+    <End Role="Message" Type="Self.Message" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Chats">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Message">
+        <PropertyRef Name="ChatId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Coincidences_Users">
+    <End Role="Users" Type="Self.Users" Multiplicity="1" />
+    <End Role="Coincidences" Type="Self.Coincidences" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Users">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Coincidences">
+        <PropertyRef Name="UserId1" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Coincidences_Users1">
+    <End Role="Users" Type="Self.Users" Multiplicity="1" />
+    <End Role="Coincidences" Type="Self.Coincidences" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Users">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Coincidences">
+        <PropertyRef Name="UserId2" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_GiftUser_Gift">
+    <End Role="Gift" Type="Self.Gift" Multiplicity="1" />
+    <End Role="GiftUser" Type="Self.GiftUser" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Gift">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="GiftUser">
+        <PropertyRef Name="GiftId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_GiftUser_Users">
+    <End Role="Users" Type="Self.Users" Multiplicity="1" />
+    <End Role="GiftUser" Type="Self.GiftUser" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Users">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="GiftUser">
+        <PropertyRef Name="SenderId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_GiftUser_Users1">
+    <End Role="Users" Type="Self.Users" Multiplicity="1" />
+    <End Role="GiftUser" Type="Self.GiftUser" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Users">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="GiftUser">
+        <PropertyRef Name="RecipentId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_UsersInterests_Interests">
+    <End Role="Interests" Type="Self.Interests" Multiplicity="1" />
+    <End Role="UsersInterests" Type="Self.UsersInterests" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Interests">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="UsersInterests">
+        <PropertyRef Name="InterestsId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Message_Users">
+    <End Role="Users" Type="Self.Users" Multiplicity="1" />
+    <End Role="Message" Type="Self.Message" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Users">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Message">
+        <PropertyRef Name="SenderId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Message_Users1">
+    <End Role="Users" Type="Self.Users" Multiplicity="1" />
+    <End Role="Message" Type="Self.Message" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Users">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Message">
+        <PropertyRef Name="RecipentId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Photos_Users">
+    <End Role="Users" Type="Self.Users" Multiplicity="1" />
+    <End Role="Photos" Type="Self.Photos" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Users">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Photos">
+        <PropertyRef Name="UserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Users_Photos1">
+    <End Role="Photos" Type="Self.Photos" Multiplicity="1" />
+    <End Role="Users" Type="Self.Users" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Photos">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Users">
+        <PropertyRef Name="PhotoId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Reviews_Users">
+    <End Role="Users" Type="Self.Users" Multiplicity="1" />
+    <End Role="Reviews" Type="Self.Reviews" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Users">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Reviews">
+        <PropertyRef Name="UserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_UsersInterests_Users">
+    <End Role="Users" Type="Self.Users" Multiplicity="1" />
+    <End Role="UsersInterests" Type="Self.UsersInterests" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Users">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="UsersInterests">
+        <PropertyRef Name="UserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_UsersInterests_Users1">
+    <End Role="Users" Type="Self.Users" Multiplicity="1" />
+    <End Role="UsersInterests" Type="Self.UsersInterests" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Users">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="UsersInterests">
+        <PropertyRef Name="InterestsId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="WooHooEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Chats" EntityType="Self.Chats" />
+    <EntitySet Name="Coincidences" EntityType="Self.Coincidences" />
+    <EntitySet Name="Gift" EntityType="Self.Gift" />
+    <EntitySet Name="GiftUser" EntityType="Self.GiftUser" />
+    <EntitySet Name="Interests" EntityType="Self.Interests" />
+    <EntitySet Name="Message" EntityType="Self.Message" />
+    <EntitySet Name="Photos" EntityType="Self.Photos" />
+    <EntitySet Name="Reviews" EntityType="Self.Reviews" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" />
+    <EntitySet Name="Users" EntityType="Self.Users" />
+    <EntitySet Name="UsersInterests" EntityType="Self.UsersInterests" />
+    <AssociationSet Name="FK_Chats_Users" Association="Self.FK_Chats_Users">
+      <End Role="Users" EntitySet="Users" />
+      <End Role="Chats" EntitySet="Chats" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Chats_Users1" Association="Self.FK_Chats_Users1">
+      <End Role="Users" EntitySet="Users" />
+      <End Role="Chats" EntitySet="Chats" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Message_Chats" Association="Self.FK_Message_Chats">
+      <End Role="Chats" EntitySet="Chats" />
+      <End Role="Message" EntitySet="Message" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Coincidences_Users" Association="Self.FK_Coincidences_Users">
+      <End Role="Users" EntitySet="Users" />
+      <End Role="Coincidences" EntitySet="Coincidences" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Coincidences_Users1" Association="Self.FK_Coincidences_Users1">
+      <End Role="Users" EntitySet="Users" />
+      <End Role="Coincidences" EntitySet="Coincidences" />
+    </AssociationSet>
+    <AssociationSet Name="FK_GiftUser_Gift" Association="Self.FK_GiftUser_Gift">
+      <End Role="Gift" EntitySet="Gift" />
+      <End Role="GiftUser" EntitySet="GiftUser" />
+    </AssociationSet>
+    <AssociationSet Name="FK_GiftUser_Users" Association="Self.FK_GiftUser_Users">
+      <End Role="Users" EntitySet="Users" />
+      <End Role="GiftUser" EntitySet="GiftUser" />
+    </AssociationSet>
+    <AssociationSet Name="FK_GiftUser_Users1" Association="Self.FK_GiftUser_Users1">
+      <End Role="Users" EntitySet="Users" />
+      <End Role="GiftUser" EntitySet="GiftUser" />
+    </AssociationSet>
+    <AssociationSet Name="FK_UsersInterests_Interests" Association="Self.FK_UsersInterests_Interests">
+      <End Role="Interests" EntitySet="Interests" />
+      <End Role="UsersInterests" EntitySet="UsersInterests" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Message_Users" Association="Self.FK_Message_Users">
+      <End Role="Users" EntitySet="Users" />
+      <End Role="Message" EntitySet="Message" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Message_Users1" Association="Self.FK_Message_Users1">
+      <End Role="Users" EntitySet="Users" />
+      <End Role="Message" EntitySet="Message" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Photos_Users" Association="Self.FK_Photos_Users">
+      <End Role="Users" EntitySet="Users" />
+      <End Role="Photos" EntitySet="Photos" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Users_Photos1" Association="Self.FK_Users_Photos1">
+      <End Role="Photos" EntitySet="Photos" />
+      <End Role="Users" EntitySet="Users" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Reviews_Users" Association="Self.FK_Reviews_Users">
+      <End Role="Users" EntitySet="Users" />
+      <End Role="Reviews" EntitySet="Reviews" />
+    </AssociationSet>
+    <AssociationSet Name="FK_UsersInterests_Users" Association="Self.FK_UsersInterests_Users">
+      <End Role="Users" EntitySet="Users" />
+      <End Role="UsersInterests" EntitySet="UsersInterests" />
+    </AssociationSet>
+    <AssociationSet Name="FK_UsersInterests_Users1" Association="Self.FK_UsersInterests_Users1">
+      <End Role="Users" EntitySet="Users" />
+      <End Role="UsersInterests" EntitySet="UsersInterests" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

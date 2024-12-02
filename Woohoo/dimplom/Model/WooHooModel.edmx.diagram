@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="8ee3f14a0dba4863806e0a8922043a1f" Name="Diagram1">
+        <EntityTypeShape EntityType="WooHooModel.Chats" Width="1.5" PointX="3" PointY="5" IsExpanded="true" />
+        <EntityTypeShape EntityType="WooHooModel.Coincidences" Width="1.5" PointX="3" PointY="8.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="WooHooModel.Gift" Width="1.5" PointX="3.75" PointY="20.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="WooHooModel.GiftUser" Width="1.5" PointX="6" PointY="11.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="WooHooModel.Interests" Width="1.5" PointX="0.75" PointY="14.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="WooHooModel.Message" Width="1.5" PointX="5.25" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="WooHooModel.Photos" Width="1.5" PointX="3" PointY="14.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="WooHooModel.Reviews" Width="1.5" PointX="3" PointY="17.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="WooHooModel.sysdiagrams" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="WooHooModel.Users" Width="1.5" PointX="0.75" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="WooHooModel.UsersInterests" Width="1.5" PointX="3" PointY="11.375" IsExpanded="true" />
+        <AssociationConnector Association="WooHooModel.FK_Chats_Users" ManuallyRouted="false" />
+        <AssociationConnector Association="WooHooModel.FK_Chats_Users1" ManuallyRouted="false" />
+        <AssociationConnector Association="WooHooModel.FK_Message_Chats" ManuallyRouted="false" />
+        <AssociationConnector Association="WooHooModel.FK_Coincidences_Users" ManuallyRouted="false" />
+        <AssociationConnector Association="WooHooModel.FK_Coincidences_Users1" ManuallyRouted="false" />
+        <AssociationConnector Association="WooHooModel.FK_GiftUser_Gift" ManuallyRouted="false" />
+        <AssociationConnector Association="WooHooModel.FK_GiftUser_Users" ManuallyRouted="false" />
+        <AssociationConnector Association="WooHooModel.FK_GiftUser_Users1" ManuallyRouted="false" />
+        <AssociationConnector Association="WooHooModel.FK_UsersInterests_Interests" ManuallyRouted="false" />
+        <AssociationConnector Association="WooHooModel.FK_Message_Users" ManuallyRouted="false" />
+        <AssociationConnector Association="WooHooModel.FK_Message_Users1" ManuallyRouted="false" />
+        <AssociationConnector Association="WooHooModel.FK_Photos_Users" ManuallyRouted="false" />
+        <AssociationConnector Association="WooHooModel.FK_Users_Photos1" ManuallyRouted="false" />
+        <AssociationConnector Association="WooHooModel.FK_Reviews_Users" ManuallyRouted="false" />
+        <AssociationConnector Association="WooHooModel.FK_UsersInterests_Users" ManuallyRouted="false" />
+        <AssociationConnector Association="WooHooModel.FK_UsersInterests_Users1" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

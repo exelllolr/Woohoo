@@ -1,0 +1,130 @@
+﻿<Page x:Class="dimplom.Pages.MainPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:dimplom.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="600" d:DesignWidth="800"
+      Title="MainPage">
+
+    <Grid>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <StackPanel Grid.Column="0">
+            <StackPanel.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FF5799F6" Offset="0.08"/>
+                    <GradientStop Color="#FFC2BACE" Offset="0.82"/>
+                </LinearGradientBrush>
+            </StackPanel.Background>
+            <Button x:Name="BProfile"
+                Click="BProfile_Click"
+                VerticalAlignment="Top"
+                HorizontalAlignment="Left"
+                Width="25"
+                Margin="5"/>
+            <Image Source="{Binding Photos}" 
+                   Width="50"
+                   Height="50"/>
+
+            
+
+            <TextBlock Text="{Binding Login}"
+                       VerticalAlignment="Center" 
+                       HorizontalAlignment="Center"/>
+            <TextBlock Text="Имя"/>
+            <TextBlock Text="{Binding Name}"/>
+            <TextBlock Text="Фамилия"/>
+            <TextBlock Text="{Binding Surname}"/>
+            <TextBlock Text="Возраст"/>
+            <TextBlock Text="{Binding Age}"/>
+            <TextBlock Text="Город"/>
+            <TextBlock Text="{Binding City}"/>
+
+        </StackPanel>
+
+
+
+        <StackPanel Grid.Column="1">
+            <StackPanel.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FF6FA3EC" Offset="0"/>
+                    <GradientStop Color="#FFEAB0BA" Offset="1"/>
+                </LinearGradientBrush>
+            </StackPanel.Background>
+            <Image x:Name="IViewer" Height="450"/>
+            <TextBlock x:Name="TBName"/>
+            <TextBlock x:Name="TBAge"/>
+            <Button x:Name="BNext"
+                    Content="Next"
+                    Click="BNext_Click"
+                    Margin="5" Width="46">
+                <Button.Background>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="#FFAAA9D4" Offset="0"/>
+                        <GradientStop Color="#FFE8B0BB" Offset="1"/>
+                    </LinearGradientBrush>
+                </Button.Background>
+            </Button>
+
+        </StackPanel>
+
+        <Grid Grid.Column="2" >
+            <Grid.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FFE48798"/>
+                    <GradientStop Color="#FFECC4CB" Offset="1"/>
+                </LinearGradientBrush>
+            </Grid.Background>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+
+            <TextBlock Text="Чаты" HorizontalAlignment="Center" FontSize="20" Margin="10"/>
+
+            <ListBox x:Name="ChatListBox" Grid.Row="1" Margin="10" Background="#33FFFFFF" d:ItemsSource="{d:SampleData ItemCount=5}">
+                <ListBox.ItemTemplate>
+                    <DataTemplate>
+                        <StackPanel Orientation="Horizontal" HorizontalAlignment="Stretch">
+                            <TextBlock Text="{Binding Name}" VerticalAlignment="Center" Width="200"/>
+                            <Button x:Name="BUpdate" Width="75" Margin="5" Click="BUpdate_Click"/>
+                            <Button x:Name="BDelete" Width="75" Margin="5" Click="BDelete_Click"/>
+                        </StackPanel>
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+            </ListBox>
+
+            <StackPanel Grid.Row="2" Orientation="Horizontal" HorizontalAlignment="Center" Margin="10">
+                <TextBox x:Name="ChatNameTextBox" Width="100" Margin="5"/>
+                <Button x:Name="BAddChat" 
+                        Content="Добавить" 
+                        Width="100" 
+                        Click="BAddChat_Click" 
+                        Margin="5 10" />
+            </StackPanel>
+        </Grid>
+
+        <Grid >
+            <Frame Name="OverlayFrame"
+                   Grid.Column="0"
+                   Visibility="Collapsed" 
+                   Background="Transparent"/>
+            <Frame Name="OverlayFrameTop"
+                   Grid.Column="1"
+                   Visibility="Collapsed"
+                   Background="Transparent"/>
+
+        </Grid>
+    </Grid>
+</Page>

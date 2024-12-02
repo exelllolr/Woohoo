@@ -1,0 +1,420 @@
+C:\Users\tarif\source\repos\dimplom\dimplom\obj\Debug\dimplom.csproj.AssemblyReference.cache
+C:\Users\tarif\source\repos\dimplom\dimplom\obj\Debug\MainWindow.g.cs
+C:\Users\tarif\source\repos\dimplom\dimplom\obj\Debug\Pages\LoginPage.g.cs
+C:\Users\tarif\source\repos\dimplom\dimplom\obj\Debug\App.g.cs
+C:\Users\tarif\source\repos\dimplom\dimplom\obj\Debug\dimplom_MarkupCompile.cache
+C:\Users\tarif\source\repos\dimplom\dimplom\obj\Debug\dimplom_MarkupCompile.lref
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\dimplom.exe.config
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\dimplom.exe
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\dimplom.pdb
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\tarif\source\repos\dimplom\dimplom\obj\Debug\Pages\EditProfilePage.g.cs
+C:\Users\tarif\source\repos\dimplom\dimplom\obj\Debug\Pages\MainPage.g.cs
+C:\Users\tarif\source\repos\dimplom\dimplom\obj\Debug\MainWindow.baml
+C:\Users\tarif\source\repos\dimplom\dimplom\obj\Debug\Pages\LoginPage.baml
+C:\Users\tarif\source\repos\dimplom\dimplom\obj\Debug\Pages\MainPage.baml
+C:\Users\tarif\source\repos\dimplom\dimplom\obj\Debug\Pages\EditProfilePage.baml
+C:\Users\tarif\source\repos\dimplom\dimplom\obj\Debug\dimplom.g.resources
+C:\Users\tarif\source\repos\dimplom\dimplom\obj\Debug\dimplom.Properties.Resources.resources
+C:\Users\tarif\source\repos\dimplom\dimplom\obj\Debug\dimplom.csproj.GenerateResource.cache
+C:\Users\tarif\source\repos\dimplom\dimplom\obj\Debug\dimplom.csproj.CoreCompileInputs.cache
+C:\Users\tarif\source\repos\dimplom\dimplom\obj\Debug\dimplom.csproj.Up2Date
+C:\Users\tarif\source\repos\dimplom\dimplom\obj\Debug\dimplom.exe
+C:\Users\tarif\source\repos\dimplom\dimplom\obj\Debug\dimplom.pdb
+C:\Users\tarif\source\repos\dimplom\dimplom\obj\Debug\Pages\RegPage.g.cs
+C:\Users\tarif\source\repos\dimplom\dimplom\obj\Debug\Pages\RegPage.baml
+C:\Users\tarif\source\repos\dimplom\dimplom\obj\Debug\dimplom_Content.g.cs
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\EntityFramework.dll
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\EntityFramework.xml
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\tarif\source\repos\dimplom\dimplom\obj\Debug\Pages\OverlayPage.g.cs
+C:\Users\tarif\source\repos\dimplom\dimplom\obj\Debug\Pages\OverlayPage.baml
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.AspNetCore.Authorization.dll
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.AspNetCore.Cors.dll
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.AspNetCore.Http.dll
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.AspNetCore.Localization.dll
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.AspNetCore.Mvc.dll
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.AspNetCore.Razor.dll
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.AspNetCore.Routing.dll
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.CodeAnalysis.dll
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.Extensions.Localization.dll
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.Extensions.WebEncoders.dll
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.Net.Http.Headers.dll
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\System.Buffers.dll
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\System.Collections.Immutable.dll
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\System.Memory.dll
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\System.Security.AccessControl.dll
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\System.Security.Permissions.dll
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.AspNetCore.Antiforgery.xml
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.AspNetCore.Authorization.xml
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.AspNetCore.Authorization.Policy.xml
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.AspNetCore.Cors.xml
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.xml
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.AspNetCore.DataProtection.xml
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.AspNetCore.Html.Abstractions.xml
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.AspNetCore.Http.xml
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.AspNetCore.JsonPatch.xml
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.AspNetCore.Localization.xml
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.AspNetCore.Mvc.xml
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.AspNetCore.Mvc.ApiExplorer.xml
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.AspNetCore.Mvc.Cors.xml
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.AspNetCore.Mvc.Localization.xml
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.AspNetCore.Mvc.Razor.xml
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.AspNetCore.Mvc.Razor.Extensions.xml
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.AspNetCore.Mvc.RazorPages.xml
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.AspNetCore.Mvc.TagHelpers.xml
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.AspNetCore.Razor.xml
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.AspNetCore.Razor.Language.xml
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.AspNetCore.Razor.Runtime.xml
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.AspNetCore.Routing.xml
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.CodeAnalysis.pdb
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.CodeAnalysis.xml
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.CodeAnalysis.CSharp.pdb
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.CodeAnalysis.CSharp.xml
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.CodeAnalysis.Razor.xml
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.Extensions.FileProviders.Composite.xml
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.Extensions.Localization.xml
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.Extensions.Localization.Abstractions.xml
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.Extensions.WebEncoders.xml
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.Net.Http.Headers.xml
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Newtonsoft.Json.xml
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Newtonsoft.Json.Bson.xml
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\System.Buffers.xml
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\System.Collections.Immutable.xml
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\System.Memory.xml
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\System.Reflection.Metadata.xml
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\tarif\source\repos\dimplom\dimplom\obj\Debug\Controlers\WooHooViewsMessageOverlay.g.cs
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\CommonServiceLocator.dll
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\tarif\source\repos\dimplom\dimplom\obj\Debug\Controlers\WooHooViewsMessageOverlay.baml
+C:\Users\tarif\source\repos\dimplom\dimplom\obj\Debug\Controlers\ChatsController.g.cs
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\System.Net.Http.Json.dll
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\System.Text.Json.dll
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\System.ValueTuple.dll
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\System.Net.Http.Json.xml
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\System.Text.Json.xml
+C:\Users\tarif\source\repos\dimplom\dimplom\bin\Debug\System.ValueTuple.xml
+C:\Users\tarif\source\repos\dimplom\dimplom\obj\Debug\Controlers\ChatsController.baml
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\dimplom.exe.config
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\dimplom.exe
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\dimplom.pdb
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\CommonServiceLocator.dll
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\EntityFramework.dll
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.AspNetCore.Authorization.dll
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.AspNetCore.Cors.dll
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.AspNetCore.Http.dll
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.AspNetCore.Localization.dll
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.AspNetCore.Mvc.dll
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.AspNetCore.Razor.dll
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.AspNetCore.Routing.dll
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.CodeAnalysis.dll
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.Extensions.Localization.dll
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.Extensions.WebEncoders.dll
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.Net.Http.Headers.dll
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\System.Buffers.dll
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\System.Collections.Immutable.dll
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\System.Memory.dll
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\System.Net.Http.Json.dll
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\System.Security.AccessControl.dll
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\System.Security.Permissions.dll
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\System.Text.Json.dll
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\System.ValueTuple.dll
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\EntityFramework.xml
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.AspNetCore.Antiforgery.xml
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.AspNetCore.Authorization.xml
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.AspNetCore.Authorization.Policy.xml
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.AspNetCore.Cors.xml
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.xml
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.AspNetCore.DataProtection.xml
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.AspNetCore.Html.Abstractions.xml
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.AspNetCore.Http.xml
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.AspNetCore.JsonPatch.xml
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.AspNetCore.Localization.xml
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.AspNetCore.Mvc.xml
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.AspNetCore.Mvc.ApiExplorer.xml
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.AspNetCore.Mvc.Cors.xml
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.AspNetCore.Mvc.Localization.xml
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.AspNetCore.Mvc.Razor.xml
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.AspNetCore.Mvc.Razor.Extensions.xml
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.AspNetCore.Mvc.RazorPages.xml
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.AspNetCore.Mvc.TagHelpers.xml
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.AspNetCore.Razor.xml
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.AspNetCore.Razor.Language.xml
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.AspNetCore.Razor.Runtime.xml
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.AspNetCore.Routing.xml
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.CodeAnalysis.pdb
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.CodeAnalysis.xml
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.CodeAnalysis.CSharp.pdb
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.CodeAnalysis.CSharp.xml
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.CodeAnalysis.Razor.xml
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.Extensions.FileProviders.Composite.xml
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.Extensions.Localization.xml
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.Extensions.Localization.Abstractions.xml
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.Extensions.WebEncoders.xml
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Microsoft.Net.Http.Headers.xml
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Newtonsoft.Json.xml
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\Newtonsoft.Json.Bson.xml
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\System.Buffers.xml
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\System.Collections.Immutable.xml
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\System.Memory.xml
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\System.Net.Http.Json.xml
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\System.Reflection.Metadata.xml
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\System.Text.Json.xml
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\System.ValueTuple.xml
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\obj\Debug\dimplom.csproj.AssemblyReference.cache
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\obj\Debug\Controlers\ChatsController.g.cs
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\obj\Debug\Controlers\WooHooViewsMessageOverlay.g.cs
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\obj\Debug\MainWindow.g.cs
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\obj\Debug\Pages\EditProfilePage.g.cs
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\obj\Debug\Pages\LoginPage.g.cs
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\obj\Debug\Pages\MainPage.g.cs
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\obj\Debug\Pages\OverlayPage.g.cs
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\obj\Debug\Pages\RegPage.g.cs
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\obj\Debug\App.g.cs
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\obj\Debug\dimplom_Content.g.cs
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\obj\Debug\dimplom_MarkupCompile.cache
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\obj\Debug\dimplom_MarkupCompile.lref
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\obj\Debug\Controlers\ChatsController.baml
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\obj\Debug\Controlers\WooHooViewsMessageOverlay.baml
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\obj\Debug\MainWindow.baml
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\obj\Debug\Pages\EditProfilePage.baml
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\obj\Debug\Pages\LoginPage.baml
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\obj\Debug\Pages\MainPage.baml
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\obj\Debug\Pages\OverlayPage.baml
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\obj\Debug\Pages\RegPage.baml
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\obj\Debug\dimplom.g.resources
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\obj\Debug\dimplom.Properties.Resources.resources
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\obj\Debug\dimplom.csproj.GenerateResource.cache
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\obj\Debug\dimplom.csproj.CoreCompileInputs.cache
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\obj\Debug\dimplom.csproj.Up2Date
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\obj\Debug\dimplom.exe
+C:\Users\tarif\OneDrive\Рабочий стол\Новая папка\dimplom\obj\Debug\dimplom.pdb

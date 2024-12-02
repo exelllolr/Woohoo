@@ -1,0 +1,59 @@
+﻿<Page x:Class="dimplom.Pages.OverlayPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:dimplom.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="OverlayPage">
+
+    <Grid Name="OverlayGrid"
+      Opacity="0.8"
+      Visibility="Visible" 
+          VerticalAlignment="Top"
+          HorizontalAlignment="Center"
+          Width="264" Height="250">
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="#FF4E7EB5"/>
+                <GradientStop Color="#FFFF5271" Offset="1"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Image Source="/Resources/Logo1.png"
+               Width="200"
+               Height="40"
+               VerticalAlignment="Top"
+               Visibility="Visible"/>
+       
+        <Button x:Name="ClosedProfileEdit"
+            Content=""
+            Click="ClosedProfileEdit_Click"
+            Width="25"
+            Margin="5"
+            VerticalAlignment="Top" HorizontalAlignment="Left">
+            <Button.Background>
+                <ImageBrush ImageSource="/Resources/menu-burger.png"/>
+            </Button.Background>
+        </Button>
+
+        <Button x:Name="BEditProfile"
+ Content="Изменить профиль"
+ Click="BEditProfile_Click"
+ VerticalAlignment="Top"
+      Margin="0,102,0,0"/>
+        <Frame Name="OverlayEdit"
+        Visibility="Collapsed"/>
+        
+
+
+        <Button x:Name="BSetting"
+            Content="Setting"
+            Click="BSetting_Click"
+             VerticalAlignment="Top" Margin="0,127,0,0"/>
+        <Button x:Name="BReport"
+            Content="Report Bug"
+            Click="BReport_Click"
+            VerticalAlignment="Top" Margin="0,152,0,0" />
+    </Grid>
+</Page>
